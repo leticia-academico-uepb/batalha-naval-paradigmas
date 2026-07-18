@@ -1,0 +1,6 @@
+# configurações do VS Code
+.vscode/
+
+# pastas de compilação do .NET
+bin/
+obj/
